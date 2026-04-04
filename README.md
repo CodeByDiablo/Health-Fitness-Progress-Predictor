@@ -4,6 +4,8 @@
 ## 📌 Project Overview
 This MS Excel-based project provides a mathematical framework for interpreting the relationship between caloric deficits and physiological weight change. By utilizing the **Mifflin-St Jeor Equation** for BMR and the **7,700 kcal/kg rule**, the tool forecasts future weight loss trends based on user-inputted nutrition and activity data.
 
+<img width="1349" height="1028" alt="Screenshot 2026-04-04 104150" src="https://github.com/user-attachments/assets/e5b319a6-c350-4c9f-96f0-1ec7677e3deb" />
+
 ## 🛠️ Technical Features
 * **BMR Calculator:** Automated calculation using conditional logic for gender-specific biological variables.
 * **Dynamic Tracker:** 30-day logging system for caloric intake and exercise expenditure.
